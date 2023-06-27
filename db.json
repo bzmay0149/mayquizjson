@@ -1,0 +1,527 @@
+{
+    "html_1": [
+        {
+            "id": 1,
+            "pregunta": "¿Cuál es el elemento utilizado para crear un encabezado en HTML?",
+            "opciones": [
+                "<head>",
+                "<header>",
+                "<h1>"
+            ],
+            "respuesta": "<h1>"
+        },
+        {
+            "id": 2,
+            "pregunta": "¿Qué elemento se utiliza para agregar una imagen en HTML?",
+            "opciones": [
+                "<image>",
+                "<img>",
+                "<picture>"
+            ],
+            "respuesta": "<img>"
+        },
+        {
+            "id": 3,
+            "pregunta": "¿Cuál es el elemento utilizado para crear un enlace en HTML?",
+            "opciones": [
+                "<a>",
+                "<link>",
+                "<href>"
+            ],
+            "respuesta": "<a>"
+        },
+        {
+            "id": 4,
+            "pregunta": "¿Cuál es el elemento utilizado para crear una lista no ordenada en HTML?",
+            "opciones": [
+                "<list>",
+                "<ol>",
+                "<ul>"
+            ],
+            "respuesta": "<ul>"
+        },
+        {
+            "id": 5,
+            "pregunta": "¿Qué elemento se utiliza para agregar un salto de línea en HTML?",
+            "opciones": [
+                "<break>",
+                "<line>",
+                "<br>"
+            ],
+            "respuesta": "<br>"
+        },
+        {
+            "id": 6,
+            "pregunta": "¿Cuál es el elemento utilizado para crear un botón en HTML?",
+            "opciones": [
+                "<input>",
+                "<button>",
+                "<submit>"
+            ],
+            "respuesta": "<button>"
+        },
+        {
+            "id": 7,
+            "pregunta": "¿Qué atributo se utiliza para especificar la dirección de un enlace en HTML?",
+            "opciones": [
+                "href",
+                "link",
+                "url"
+            ],
+            "respuesta": "href"
+        },
+        {
+            "id": 8,
+            "pregunta": "¿Cuál es el elemento utilizado para crear un formulario en HTML?",
+            "opciones": [
+                "<form>",
+                "<input>",
+                "<submit>"
+            ],
+            "respuesta": "<form>"
+        },
+        {
+            "id": 9,
+            "pregunta": "¿Cuál es el elemento utilizado para crear un encabezado de nivel 2 en HTML?",
+            "opciones": [
+                "<h1>",
+                "<h2>",
+                "<header>"
+            ],
+            "respuesta": "<h2>"
+        },
+        {
+            "id": 10,
+            "pregunta": "¿Cuál de los siguientes Doctype es el que utilizarías para un documento HTML5?",
+                            "opciones": [
+                              "<!doctype html5>",
+                              "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 5.0 Transitional//EN\">",
+                              "<!doctype html>"
+                            ],
+                            "respuesta": "<!doctype html>"
+           
+        },
+        {
+            "id": 11,
+            "pregunta": "¿Cuál es el elemento utilizado para crear una tabla en HTML?",
+            "opciones": [
+                "<table>",
+                "<tr>",
+                "<td>"
+            ],
+            "respuesta": "<table>"
+        },
+        {
+            "id": 12,
+            "pregunta": "¿Qué elemento se utiliza para crear una fila en una tabla en HTML?",
+            "opciones": [
+                "<table>",
+                "<tr>",
+                "<td>"
+            ],
+            "respuesta": "<tr>"
+        },
+        {
+            "id": 13,
+            "pregunta": "¿Cuál es el elemento utilizado para crear una lista ordenada en HTML?",
+            "opciones": [
+                "<ol>",
+                "<ul>",
+                "<list>"
+            ],
+            "respuesta": "<ol>"
+        },
+        {
+            "id": 14,
+            "pregunta": "¿Qué elemento se utiliza para agregar un video en HTML?",
+            "opciones": [
+                "<video>",
+                "<media>",
+                "<movie>"
+            ],
+            "respuesta": "<video>"
+        },
+        {
+            "id": 15,
+            "pregunta": "¿Cuál es el atributo utilizado para especificar la ruta de un archivo de audio en HTML?",
+            "opciones": [
+                "src",
+                "audio-src",
+                "file"
+            ],
+            "respuesta": "src"
+        },
+        {
+            "id": 16,
+            "pregunta": "¿Cuál es el elemento utilizado para crear un área de texto en HTML?",
+            "opciones": [
+                "<input>",
+                "<textarea>",
+                "<textinput>"
+            ],
+            "respuesta": "<textarea>"
+        },
+        {
+            "id": 17,
+            "pregunta": "¿Cuál es el atributo utilizado para especificar la fuente de una imagen en HTML?",
+            "opciones": [
+                "src",
+                "alt",
+                "title"
+            ],
+            "respuesta": "src"
+        },
+        {
+            "id": 18,
+            "pregunta": "¿Cuál es el atributo utilizado para especificar el texto en un botón en HTML?",
+            "opciones": [
+                "value",
+                "text",
+                "label"
+            ],
+            "respuesta": "value"
+        },
+        {
+            "id": 19,
+            "pregunta": "¿Cuál es el elemento utilizado para crear un campo de entrada de texto en HTML?",
+            "opciones": [
+                "<input>",
+                "<text>",
+                "<textbox>"
+            ],
+            "respuesta": "<input>"
+        },
+        {
+            "id": 20,
+            "pregunta": "¿Qué elemento se utiliza para crear una línea horizontal en HTML?",
+            "opciones": [
+                "<hr>",
+                "<line>",
+                "<rule>"
+            ],
+            "respuesta": "<hr>"
+        },
+        {
+            "id": 21,
+            "pregunta": "¿Qué elemento se utiliza para crear una lista desordenada en HTML?",
+            "opciones": [
+                "<ul>",
+                "<ol>",
+                "<li>"
+            ],
+            "respuesta": "<ul>"
+        },
+        {
+            "id": 22,
+            "pregunta": "¿Cuál es el atributo utilizado para especificar el encabezado de una celda en una tabla en HTML?",
+            "opciones": [
+                "th",
+                "td",
+                "head"
+            ],
+            "respuesta": "th"
+        },
+        {
+            "id": 23,
+            "pregunta": "¿Cuál es el atributo utilizado para especificar el nombre de un campo de entrada en un formulario en HTML?",
+            "opciones": [
+                "name",
+                "id",
+                "value"
+            ],
+            "respuesta": "name"
+        },
+        {
+            "id": 24,
+            "pregunta": "¿Qué elemento se utiliza para crear un menú desplegable en HTML?",
+            "opciones": [
+                "<select>",
+                "<option>",
+                "<dropdown>"
+            ],
+            "respuesta": "<select>"
+        },
+        {
+            "id": 25,
+            "pregunta": "¿Cuál es el atributo utilizado para especificar el valor predeterminado en un menú desplegable en HTML?",
+            "opciones": [
+                "selected",
+                "default",
+                "value"
+            ],
+            "respuesta": "selected"
+        },
+        {
+            "id": 26,
+            "pregunta": "¿Cuál es el elemento utilizado para agregar un comentario en HTML?",
+            "opciones": [
+                "<!-- -->",
+                "<comment></comment>",
+                "<comentario></comentario>"
+            ],
+            "respuesta": "<!-- -->"
+        },
+        {
+            "id": 27,
+            "pregunta": "¿Qué elemento se utiliza para crear un párrafo en HTML?",
+            "opciones": [
+                "<p>",
+                "<para>",
+                "<text>"
+            ],
+            "respuesta": "<p>"
+        },
+        {
+            "id": 28,
+            "pregunta": "¿Qué elemento se utiliza para resaltar texto en HTML?",
+            "opciones": [
+                "<strong>",
+                "<em>",
+                "<highlight>"
+            ],
+            "respuesta": "<strong>"
+        },
+        {
+            "id": 29,
+            "pregunta": "¿Qué elemento se utiliza para crear una línea de texto tachado en HTML?",
+            "opciones": [
+                "<s>",
+                "<strike>",
+                "<line>"
+            ],
+            "respuesta": "<s>"
+        },
+        {
+            "id": 30,
+            "pregunta": "¿Qué elemento se utiliza para crear un campo de entrada de texto en HTML?",
+            "opciones": [
+                "<input type='text'>",
+                "<textarea>",
+                "<text>"
+            ],
+            "respuesta": "<input type='text'>"
+        },
+        {
+            "id": 31,
+            "pregunta": "¿Qué elemento se utiliza para crear un botón en HTML?",
+            "opciones": [
+                "<button>",
+                "<input type='button'>",
+                "<submit>"
+            ],
+            "respuesta": "<button>"
+        },
+        {
+            "id": 32,
+            "pregunta": "¿Cuál es el atributo utilizado para especificar el texto alternativo de una imagen en HTML?",
+            "opciones": [
+                "alt",
+                "title",
+                "caption"
+            ],
+            "respuesta": "alt"
+        },
+        {
+            "id": 33,
+            "pregunta": "¿Cuál es el atributo utilizado para especificar el texto que se muestra cuando se coloca el cursor sobre un enlace en HTML?",
+            "opciones": [
+                "title",
+                "alt",
+                "tooltip"
+            ],
+            "respuesta": "title"
+        },
+        {
+            "id": 34,
+            "pregunta": "¿Qué elemento se utiliza para crear un encabezado en HTML?",
+            "opciones": [
+                "<h1> - <h6>",
+                "<header>",
+                "<heading>"
+            ],
+            "respuesta": "<h1> - <h6>"
+        },
+        {
+            "id": 35,
+            "pregunta": "¿Cuál es el valor predeterminado del atributo \"type\" en un botón en HTML?",
+            "opciones": [
+                "submit",
+                "button",
+                "reset"
+            ],
+            "respuesta": "submit"
+        },
+        
+          {
+               "id": 36,
+                "pregunta": "¿Qué significa el acrónimo HTML?",
+                "opciones": [
+                  "Hyper Text Mask Language",
+                  "Hard Text Markup Language",
+                  "Hyper Text Markup Language",
+                  "Hard Text Mask Language"
+                ],
+                "respuesta": "HyperText Markup Language"
+              },
+              {
+                "id": 37,
+                "pregunta": "¿Qué etiqueta es correcta para indicar un salto de línea?",
+                "opciones": [
+                  "</br>",
+                  "<br/>",
+                  "<breakLine>"
+                 
+                ],
+                "respuesta": "<br/>"
+              },
+              {
+                "id": 38,
+                "pregunta": "¿Cuál es la forma correcta de escribir un comentario en HTML?",
+                "opciones": [
+                  "/* */",
+                  "<!–…–>",
+                  "ctrl + Ç"
+                  
+                ],
+                "respuesta": "<!–…–>"
+              },
+              {
+                "id": 39,
+                "pregunta": "¿Cuál es la forma correcta de escribir un enlace en HTML?",
+                "opciones": [
+                  "<a title=» «>…</>",
+                  "<a href=» «>…</a>",
+                  "<a src=» «>…</a>"
+                  
+                ],
+                "respuesta":  "<a href=» «>…</a>"
+              },
+              
+              {
+                "id": 40,
+                "pregunta": "¿Qué etiqueta se usa para denominar cada fila en una tabla html?",
+                "opciones": [
+                  "<ol>",
+                  "<ul>",
+                  "<li>"
+                  
+                ],
+                "respuesta": "<li>"
+              },
+             
+              {
+                "id": 41,
+                "pregunta": "Las siguientes instrucciones vienen acompañadas de un atributo. ¿Cuál es correcto?",
+                "opciones": [
+                  "<img src=»foto.jpg» alt=»texto»>",
+                  "<img src=»foto.jpg» value=»texto»>",
+                  "<img src=»foto.jpg» text=»texto»>"
+                 
+                ],
+                "respuesta": "<img src=»foto.jpg» alt=»texto»>"
+              },
+              {
+                "id": 42,
+                "pregunta": "¿De las etiquetas a continuación cuál tiene un impacto directo sobre la página de resultados de búsqueda que ofrece Google sobre un determinado sitio web?",
+                "opciones": [
+                  "<h1>",
+                  "<title>",
+                  "<strong>"
+                
+                ],
+                "respuesta":  "<title>"
+              },
+              {
+                "id": 43,
+                "pregunta": "¿Qué versión de html soporta la etiqueta <video>?",
+                "opciones": [
+                    "HTML5",
+                    "HTML4",
+                    "Todas las versiones de HTML"
+                  ],
+                  "respuesta": "HTML5"
+                },
+                {
+                    "id": 44,
+                        "pregunta": "¿Qué etiqueta utilizamos para definir el cuerpo del documento?",
+                        "opciones": [
+                          "html",
+                          "head",
+                          "body"
+                        ],
+                        "respuesta": "body"
+                      },
+                      {
+                        "id": 45,
+                        "pregunta": "En HTML, las etiquetas <h1>, <h2> y <h3> se emplean para definir",
+                        "opciones": [
+                          "párrafos",
+                          "negritas",
+                          "encabezados"
+                        ],
+                        "respuesta": "encabezados"
+                      },
+                          
+                      {
+                        "id": 46,
+                        "pregunta": "Etiqueta con la que definimos un contenedor genérico.",
+                        "opciones": [
+                          "a",
+                          "div",
+                          "container"
+                          
+                        ],
+                        "respuesta": "div"
+                      },
+                      {
+                        "id": 47,
+                        "pregunta": "Cada elemento en una lista se coloca entre las etiquetas",
+                        "opciones": [
+                          "ul",
+                          "li",
+                          "il"
+                        ],
+                        "respuesta": "li"
+                      },
+                          
+                      {
+                        "id": 48,
+                        "pregunta": "Para definir el pie de la página se utiliza",
+                        "opciones": [
+                          "header",
+                          "footer",
+                          "main"
+                        ],
+                        "respuesta": "footer"
+                      },
+                          
+                      {
+                        "id": 49,
+                        "pregunta": "Para definir una clase a un elemento html se utiliza:",
+                        "opciones": [
+                            "div",
+                            "id",
+                            "class"
+                          ],
+                          "respuesta": "class"
+                        },
+                        {
+                            "id": 50,
+                            "pregunta": "¿Qué atributo se utiliza para especificar el tipo de entrada en un elemento de entrada en HTML?",
+                            "opciones": [
+                                   "type",
+                                   "input-type",
+                                   "kind"
+                                  ],
+                                  "respuesta": "type"
+                           
+                          }
+                          
+                         
+                    ]
+                  }
+                  
+                  
+              
+              
+          
